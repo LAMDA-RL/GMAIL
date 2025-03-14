@@ -1,8 +1,6 @@
 # GMAIL
 
-## Introduction
-
-GMAIL implementation in non-stationary environments.
+Author's official implementation of TPAMI paper "Generalizable Multi-modal Adversarial Imitation Learning for Non-stationary Dynamics"
 
 ## Run Code
 
